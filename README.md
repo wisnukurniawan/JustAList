@@ -19,7 +19,7 @@ Supported content source:
 │   └── remote      
 ├── di              // Contains all dependency injection module
 ├── feature         // Feature components goes here
-├── utils           // Utility class like Extension, Utils, etc
+├── utils           // Utility class like Extension, Util, etc
 │   ├── extension
 │   └── util
 └── widget          // All custom view components goes here
