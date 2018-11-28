@@ -1,4 +1,4 @@
-package com.wisnu.justalist.util
+package com.wisnu.justalist.utils
 
 import android.os.Handler
 import android.view.View

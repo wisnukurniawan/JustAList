@@ -1,4 +1,4 @@
-package com.wisnu.justalist.util.extension
+package com.wisnu.justalist.utils.extension
 
 import android.content.Context
 import android.transition.TransitionManager

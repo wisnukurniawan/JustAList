@@ -1,4 +1,4 @@
-package com.wisnu.justalist.util
+package com.wisnu.justalist.utils
 
 /**
  * Created by wisnu on 11/27/18

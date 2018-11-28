@@ -1,4 +1,4 @@
-package com.wisnu.justalist.util
+package com.wisnu.justalist.utils
 
 import android.text.Editable
 import android.text.TextWatcher

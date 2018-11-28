@@ -1,4 +1,4 @@
-package com.wisnu.justalist.util.extension
+package com.wisnu.justalist.utils.extension
 
 import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.LiveData

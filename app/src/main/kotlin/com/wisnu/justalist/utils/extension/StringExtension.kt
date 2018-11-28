@@ -1,4 +1,4 @@
-package com.wisnu.justalist.util.extension
+package com.wisnu.justalist.utils.extension
 
 import android.util.Patterns
 import java.net.URLEncoder

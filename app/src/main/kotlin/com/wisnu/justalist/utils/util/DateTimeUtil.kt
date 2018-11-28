@@ -1,4 +1,4 @@
-package com.wisnu.justalist.util.utils
+package com.wisnu.justalist.utils.util
 
 import android.util.Log
 import org.joda.time.DateTime

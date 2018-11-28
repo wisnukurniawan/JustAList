@@ -5,7 +5,7 @@ import com.wisnu.justalist.base.data.KeyValueStore
 import com.wisnu.justalist.data.local.SharedPreferenceApi
 import com.wisnu.justalist.data.local.source.SourceKeyValueStore
 import com.wisnu.justalist.data.remote.dribble.DribbbleSearchService
-import com.wisnu.justalist.util.Constants
+import com.wisnu.justalist.utils.Constants
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
 import okhttp3.ResponseBody

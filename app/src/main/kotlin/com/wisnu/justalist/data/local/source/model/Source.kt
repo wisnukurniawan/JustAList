@@ -1,6 +1,6 @@
 package com.wisnu.justalist.data.local.source.model
 
-import com.wisnu.justalist.util.Constants
+import com.wisnu.justalist.utils.Constants
 
 /**
  * Created by wisnu on 11/27/18

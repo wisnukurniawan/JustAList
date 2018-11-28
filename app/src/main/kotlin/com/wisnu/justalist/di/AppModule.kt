@@ -2,7 +2,7 @@ package com.wisnu.justalist.di
 
 import com.google.gson.FieldNamingPolicy
 import com.google.gson.GsonBuilder
-import com.wisnu.justalist.util.Constants
+import com.wisnu.justalist.utils.Constants
 import org.koin.dsl.module.module
 
 /**

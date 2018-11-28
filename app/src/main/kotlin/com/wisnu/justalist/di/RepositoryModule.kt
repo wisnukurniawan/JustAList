@@ -1,7 +1,7 @@
 package com.wisnu.justalist.di
 
 import com.wisnu.justalist.feature.home.data.HomeRepository
-import com.wisnu.justalist.util.Constants
+import com.wisnu.justalist.utils.Constants
 import org.koin.dsl.module.module
 
 /**

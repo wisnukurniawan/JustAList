@@ -19,9 +19,9 @@ Supported content source:
 │   └── remote      
 ├── di              // Contains all dependency injection module
 ├── feature         // Feature components goes here
-├── util            // Utility class like Extension, Utils, etc
+├── utils           // Utility class like Extension, Utils, etc
 │   ├── extension
-│   └── utils
+│   └── util
 └── widget          // All custom view components goes here
 
 ```
