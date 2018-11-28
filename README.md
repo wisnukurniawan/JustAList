@@ -22,7 +22,7 @@ Supported content source:
 ├── util            // Utility class like Extension, Utils, etc
 │   ├── extension
 │   └── utils
-└── widget          // All custom view component goes here
+└── widget          // All custom view components goes here
 
 ```
 
